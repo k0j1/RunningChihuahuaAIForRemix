@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Fredoka', sans-serif;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #87CEEB;
+}
+
+#root {
+  width: 100vw;
+  height: 100vh;
+}
